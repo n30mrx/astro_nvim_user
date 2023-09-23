@@ -74,4 +74,8 @@ return {
   --     }, { mode = "n", prefix = "<leader>" })
   --   end,
   -- },
+  {
+    'Mofiqul/dracula.nvim',
+    lazy=false,
+  }
 }
